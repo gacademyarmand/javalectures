@@ -10,5 +10,11 @@ public class DemoThread {
         Thread libThread = new Thread(libraryThread);
         libThread.start();
 
+        TestSleepMethod t1=new TestSleepMethod();
+        TestSleepMethod t2=new TestSleepMethod();
+
+        t1.start();
+        t2.start();
+
     }
 }
