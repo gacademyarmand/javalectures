@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30491c16-3f77-4eac-b11a-d8443c26b90c" name="Changes" comment="Thread joining" />
+    <list default="true" id="30491c16-3f77-4eac-b11a-d8443c26b90c" name="Changes" comment="Synchronized method">
+      <change beforePath="$PROJECT_DIR$/src/Synchronization/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Synchronization/Table.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,7 @@
     "Application.OverloadingCalculation.executor": "Run",
     "Application.Test2.executor": "Run",
     "Application.TestInheritance2.executor": "Run",
+    "Application.TestSynchronization.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -130,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722861154170</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Synchronized method">
+      <option name="closed" value="true" />
+      <created>1722862428656</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722862428656</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +153,7 @@
     <MESSAGE value="Thread Sleeping" />
     <MESSAGE value="Thread naming" />
     <MESSAGE value="Thread joining" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread joining" />
+    <MESSAGE value="Synchronized method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Synchronized method" />
   </component>
 </project>
