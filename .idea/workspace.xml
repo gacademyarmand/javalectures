@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30491c16-3f77-4eac-b11a-d8443c26b90c" name="Changes" comment="Thread naming">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30491c16-3f77-4eac-b11a-d8443c26b90c" name="Changes" comment="Thread joining" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DemoJoin.executor": "Run",
     "Application.DemoThread.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OverloadingCalculation.executor": "Run",
@@ -123,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722606358706</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Thread joining">
+      <option name="closed" value="true" />
+      <created>1722861154170</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722861154170</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +141,7 @@
     <MESSAGE value="Creating thread with and without runnable interface" />
     <MESSAGE value="Thread Sleeping" />
     <MESSAGE value="Thread naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread naming" />
+    <MESSAGE value="Thread joining" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread joining" />
   </component>
 </project>
